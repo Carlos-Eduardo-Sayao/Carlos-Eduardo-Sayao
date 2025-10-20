@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-say%C3%A3o-santana-junior-163711305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDsy0nHt0QCOdL2fQ0rYYNA%3D%3D)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Sayao)  
 ✉️ Email: carlossayaoti@gmail.com
 
