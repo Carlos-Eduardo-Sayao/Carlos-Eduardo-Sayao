@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Tecnologias que utilizo no dia a dia
+## 🧠 Skills
 
 ### 🔙 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -41,4 +41,3 @@
 ✉️ Email: carlossayaoti@gmail.com
 
 ---
-
