@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Carlos Eduardo Sayão
 
-🎓 Estudante de Engenharia de Software (3º semestre) na Universidade Católica de Salvador (UCSal)  
+🎓 Estudante de Engenharia de Software (3º semestre) na Universidade Católica de Salvador (UCSAL)  
 💻 Focado em desenvolvimento **Java** e **Web (HTML, CSS, JavaScript)**  
 📊 Também possuo conhecimentos intermediários em **Excel**  
 🚀 Buscando crescimento na área de tecnologia e minha primeira experiência profissional
@@ -32,12 +32,8 @@
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-✉️ Email: seuemail@email.com
+✉️ Email: 
 
 ---
 
-### ⚡ Sobre mim
-- 🎯 Gosto de desafios e estou sempre buscando aprender algo novo  
-- 🔍 Atualmente estudando lógica de programação, orientação a objetos e desenvolvimento web  
-- 🌱 Meu objetivo é me tornar um desenvolvedor Full Stack no futuro
 
