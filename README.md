@@ -35,7 +35,7 @@
 
 ---
 
-##  Como me encontrar
+##  Para contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-say%C3%A3o-santana-junior-163711305/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Sayao)
