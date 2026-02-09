@@ -1,9 +1,8 @@
 ## 👋 Olá, eu sou o Carlos Eduardo Sayão
 
-🎓 Estudante de Engenharia de Software (3º semestre) na Universidade Católica de Salvador (UCSAL)  
-💻 Focado em desenvolvimento **Java** e **Web (HTML, CSS, JavaScript)**  
-📊 Também possuo conhecimentos intermediários em **Excel**  
-🚀 Buscando crescimento na área de tecnologia e minha primeira experiência profissional
+🎓 Estudante de **Engenharia de Software (3º semestre)** na **Universidade Católica de Salvador (UCSAL)**  
+💻 Focado em desenvolvimento **Java**, **Python** e **Web (HTML, CSS, JavaScript)**  
+🚀 Buscando crescimento na área de tecnologia e minha **primeira experiência profissional**
 
 ---
 
@@ -11,7 +10,7 @@
 
 ### 🔙 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -27,7 +26,8 @@
 
 ---
 
-## 🧰 Outras ferramentas
+### 🧰 Outras ferramentas
+![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -36,10 +36,10 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-say%C3%A3o-santana-junior-163711305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDsy0nHt0QCOdL2fQ0rYYNA%3D%3D)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Sayao)  
-✉️ Email: carlossayaoti@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-say%C3%A3o-santana-junior-163711305/)
 
-📞 Telefone: 071 99905-6515
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Sayao)
 
----
+✉️ **Email:** carlossayaoti@gmail.com  
+📞 **Telefone:** 071 99905-6515
+
