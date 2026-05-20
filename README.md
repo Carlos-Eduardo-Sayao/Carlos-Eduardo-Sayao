@@ -21,13 +21,28 @@
 
 ---
 
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Análise de Dados
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Competências:**  
+✔️ Limpeza de dados  
+✔️ Padronização e tratamento de dados  
+✔️ Análise estatística
+
+---
+
 ###  Idiomas
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
 ###  Outras ferramentas
-![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
