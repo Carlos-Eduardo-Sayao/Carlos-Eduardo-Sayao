@@ -1,6 +1,6 @@
 ##  Olá, eu sou o Carlos Eduardo Sayão
 
-🎓 Estudante de **Engenharia de Software (4º semestre)** na **Universidade Católica de Salvador (UCSAL)**  
+🎓 Estudante de **Engenharia de Software (5º semestre)** na **Universidade Católica de Salvador (UCSAL)**  
 💻 Focado em desenvolvimento **Java**, **Python** e **Data Analytics**  
 🚀 Buscando crescimento na área de tecnologia e minha **primeira experiência profissional**
 
